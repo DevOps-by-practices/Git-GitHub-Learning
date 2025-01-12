@@ -1,4 +1,4 @@
 # Git-GitHub-Learning
 
-This is my learning place.
-Edited to imitate merge conflicts. 
+This is my learning place 
+# imitating merge conflicts
